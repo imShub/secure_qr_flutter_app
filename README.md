@@ -17,7 +17,7 @@ The app features a premium **Glassmorphism UI** with smooth animations, offering
 
 | Scanner | Result (Verified) | Generator |
 |:---:|:---:|:---:|
-| *(Add Scanner Screenshot)* | *(Add Result Screenshot)* | *(Add Generator Screenshot)* |
+| *(Add Scanner Screenshots)* | *(Add Result Screenshot)* | *(Add Generator Screenshot)* |
 
 ## 🚀 Getting Started
 
